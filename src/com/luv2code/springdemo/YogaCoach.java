@@ -10,4 +10,10 @@ public class YogaCoach implements Coach {
 		return "Practise Yoga every morning";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
